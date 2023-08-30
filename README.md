@@ -30,8 +30,8 @@ I'm a full-stack Java developer. I'm constantly learning new technologies, tools
 
 #### - 📫 Reach me at
 
-- [![Linkedin Badge](https://img.shields.io/badge/-TurlettiLucas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turlettilucasdeveloper/) 
-[![Mail Badge](https://img.shields.io/badge/-TurlettiLucas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:turlettilucasdev@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-salvadorcaldarella82-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turlettilucasdeveloper/) 
+[![Mail Badge](https://img.shields.io/badge/-salvadorcaldarella82-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:turlettilucasdev@gmail.com)
 
 
 
