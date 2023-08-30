@@ -39,32 +39,3 @@ I'm a full-stack Java developer. I'm constantly learning new technologies, tools
 ### 🧰 Languages and Tools
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-#
-<details>
-  <summary><b>:gear: &nbsp;My Journey</b></summary>
-  <br/>
-      qdqdqwdqwd
-</details>
-
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Practicamos la logica de programacion Ep.0](https://ytcards.demolab.com/?id=Y4T3PAPl7gg&title=Practicamos+la+logica+de+programacion+Ep.0&lang=en&timestamp=1690408811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Practicamos la logica de programacion Ep.0")](https://www.youtube.com/watch?v=Y4T3PAPl7gg)
-[![Clase Practica JPA - Parte 2](https://ytcards.demolab.com/?id=WLWadDddOdU&title=Clase+Practica+JPA+-+Parte+2&lang=en&timestamp=1689631209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Clase Practica JPA - Parte 2")](https://www.youtube.com/watch?v=WLWadDddOdU)
-[![Clase Practica de JPA - Parte 1](https://ytcards.demolab.com/?id=4w1s2_oib3g&title=Clase+Practica+de+JPA+-+Parte+1&lang=en&timestamp=1689415208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Clase Practica de JPA - Parte 1")](https://www.youtube.com/watch?v=4w1s2_oib3g)
-[![Proyecto FInal Egg Bootcamp](https://ytcards.demolab.com/?id=rVDhm_x6Jrs&title=Proyecto+FInal+Egg+Bootcamp&lang=en&timestamp=1689277883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Proyecto FInal Egg Bootcamp")](https://www.youtube.com/watch?v=rVDhm_x6Jrs)
-[![Dominando GitHub: 2 formas de subir tus proyectos individuales y ejercicios](https://ytcards.demolab.com/?id=5QtONV0YTyg&title=Dominando+GitHub%3A+2+formas+de+subir+tus+proyectos+individuales+y+ejercicios&lang=en&timestamp=1689112809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dominando GitHub: 2 formas de subir tus proyectos individuales y ejercicios")](https://www.youtube.com/watch?v=5QtONV0YTyg)
-[![Potencia tu Persistencia en Java: Tutorial JPA](https://ytcards.demolab.com/?id=oC1csyKNjPQ&title=Potencia+tu+Persistencia+en+Java%3A+Tutorial+JPA&lang=en&timestamp=1688480721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Potencia tu Persistencia en Java: Tutorial JPA")](https://www.youtube.com/watch?v=oC1csyKNjPQ)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@TheLucast08?sub_confirmation=1)
-
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
-  <br/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucast086&show_icons=true&locale=en&layout=compact" alt="lucast086" /></p>
-
-</details>
