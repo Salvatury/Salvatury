@@ -1,10 +1,10 @@
-# <h1 align= center> 🌱 I'm Turletti Lucas </h1>
+# <h1 align= center> 🌱 I'm Caldarella Salvador </h1>
 
 <p align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&width=435&lines=Full-stack+Developer;Backend+Java+Developer" alt="Typing SVG" /></a>
 </p>      
 
-**`Be 1% better than yesterday, It is all you need.`**
+**"With every small step towards daily improvement, you are not only benefiting yourself, but also extending a helping hand to others, thus creating a positive impact on your surroundings."**
 
 I'm a full-stack java developer and content creator. I constantly find myself learning new technologies, tools and soft skills. To carry out better projects.
 In my Youtube channel, I publish content about a developer's life, not just code, I'm trying to aport to the community pieces of advice for health, learning, jobs search, roadmaps, and more.
