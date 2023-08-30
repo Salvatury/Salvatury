@@ -6,8 +6,7 @@
 
 **"With every small step towards daily improvement, you are not only benefiting yourself, but also extending a helping hand to others, thus creating a positive impact on your surroundings."**
 
-I'm a full-stack java developer and content creator. I constantly find myself learning new technologies, tools and soft skills. To carry out better projects.
-In my Youtube channel, I publish content about a developer's life, not just code, I'm trying to aport to the community pieces of advice for health, learning, jobs search, roadmaps, and more.
+I'm a full-stack Java developer. I'm constantly learning new technologies, tools, and soft skills to enhance the quality of the projects I work on. I have an altruistic approach, and during support sessions, I consistently share knowledge, not only about coding. My goal is to contribute advice to the community regarding health, learning, job hunting, roadmaps, and more.
 
 <p align="left">
       <a href="https://www.youtube.com/@TheLucast08?sub_confirmation=1">
