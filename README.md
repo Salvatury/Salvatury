@@ -21,13 +21,6 @@ I'm a full-stack Java developer. I'm constantly learning new technologies, tools
 
 
 #### - 🔭 Currently, I am unemployed, but I am actively engaged in freelance projects.
-#### - 🌱 I’m currently learning **BDD - TDD - CUCUMBER**
-
-#### - 👨‍💻 All of my projects are available at 
-- <a href="https://www.turlettilucasdev.com.ar/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio---%3E-green" alt="web"/>
-</a>
-
 #### - 📫 Reach me at
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Salvador_Caldarella-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvadorcaldarella82/) 
