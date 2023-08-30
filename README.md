@@ -2,16 +2,16 @@
 
 <p align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&width=435&lines=Full-stack+Developer;Backend+Java+Developer" alt="Typing SVG" /></a>
-</p>      
+</p>
 
 **"With every small step towards daily improvement, you are not only benefiting yourself, but also extending a helping hand to others, thus creating a positive impact on your surroundings."**
 
 I'm a full-stack Java developer. I'm constantly learning new technologies, tools, and soft skills to enhance the quality of the projects I work on. I have an altruistic approach, and during support sessions, I consistently share knowledge, not only about coding. My goal is to contribute advice to the community regarding health, learning, job hunting, roadmaps, and more.
 
 <p align="left">
-      <a href="https://www.youtube.com/@TheLucast08?sub_confirmation=1">
+      <a href="https://www.youtube.com/@salvatury?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@TheLucast08">
+      <a href="https://www.youtube.com/@salvatury">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucast086?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
