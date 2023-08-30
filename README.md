@@ -20,8 +20,7 @@ I'm a full-stack Java developer. I'm constantly learning new technologies, tools
    </p>
 
 
-#### - 🔭 I’m currently working on JayWays Tienda Digital **E-comerce**
-
+#### - 🔭 Currently, I am unemployed, but I am actively engaged in freelance projects.
 #### - 🌱 I’m currently learning **BDD - TDD - CUCUMBER**
 
 #### - 👨‍💻 All of my projects are available at 
