@@ -1,7 +1,7 @@
 # <h1 align= center> 🌱 I'm Caldarella Salvador </h1>
 
 <p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&width=435&lines=Full-stack+Developer;Backend+Java+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&width=435&lines=Full-stack+Developer;Backend+Java+Developer" alt="Typing SVG" /></a> 
 </p>
 
 **"With every small step towards daily improvement, you are not only benefiting yourself, but also extending a helping hand to others, thus creating a positive impact on your surroundings."**
