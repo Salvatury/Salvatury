@@ -1,73 +1,96 @@
-<h1 align="center">🌱 I'm Caldarella Salvador</h1>
+<h1 align="center">👨‍💻 Salvador Caldarella</h1>
+<p align="center">alias <strong>salvatury</strong> | Full Stack Developer | DBA Developer | SysAdmin</p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&width=435&lines=Full-stack+Developer;Backend+Java+Developer;DBA+Developer" alt="Typing SVG" />
-  </a> 
+## 🧑‍💻 Sobre mí
+
+Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Developer trabajando con Oracle, mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, Spring y .NET.
+
+Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una actitud proactiva hacia el aprendizaje constante. Disfruto compartir conocimientos y colaborar con otros, impulsando soluciones que generen impacto real tanto en proyectos como en personas.
+
+## 🧰 Tecnologías y herramientas
+
+### 🖥️ Lenguajes
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-> **"With every small step towards daily improvement, you are not only benefiting yourself, but also extending a helping hand to others, thus creating a positive impact on your surroundings."**
+### 🔧 Frameworks y Librerías
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original-wordmark.svg" alt="NuGet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linqpad/linqpad-original.svg" alt="LINQ" width="40" height="40"/>
+</p>
 
-I'm a passionate Full-Stack Java Developer and DBA Developer working with Oracle databases. Constantly learning new technologies, tools, and soft skills to enhance the quality of the projects I contribute to. I have an altruistic approach and frequently share knowledge — not just technical — during support sessions. My goal is to empower others through advice on health, learning, job hunting, roadmaps, and more.
+### 🗄️ Bases de datos
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
+</p>
 
----
+### ☁️ DevOps & Infraestructura
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
+</p>
 
-### 🇪🇸 Sobre mí
+### 🧑‍💻 Entornos de desarrollo (IDE)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/toad.svg" alt="Toad" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/IBM_logo.svg" alt="IBM Data Studio" width="40" height="40"/>
+</p>
 
-Desarrollador Fullstack con experiencia en Java, Spring y bases de datos Oracle. Actualmente me desempeño como DBA Developer en proyectos críticos, mientras amplío mis conocimientos en .NET y optimización de rendimiento en SQL. Comparto contenido técnico y de desarrollo personal en mis redes y canal de YouTube.
+## 📌 Experiencia actual y formación
 
----
+- 🎯 **DBA Developer** en entorno DB2 en America Virtual (partner de Anses) (Actualidad)
+- 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET
+- 🧰 Más de 10 años de experiencia en soporte técnico, administración de redes y servidores
+- 🏢 Experiencia en empresas como: HP, Edenor y Rosen Argentina
 
-### 🔗 Contacto
+### 🎓 Formación destacada
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Salvador_Caldarella-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvadorcaldarella82/) 
-[![Mail Badge](https://img.shields.io/badge/-salvatury82@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salvatury82@gmail.com)
+- 🧑‍💻 Full Stack Developer – Egg Cooperation (2023-2024)
+- 🧠 Bachiller con título completo – EEM N.º 4 (finalizado en 2002)
+- 📘 Inglés técnico – Nivel intermedio (en curso)
 
----
-
-### 📺 Canal de YouTube
+## 📬 Contacto y redes
 
 <p align="left">
-  <a href="https://www.youtube.com/@salvatury?sub_confirmation=1">
-    <img alt="YouTube subscribers" title="Subscribe to my channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a> 
-  <a href="https://www.youtube.com/@salvatury">
-    <img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  <a href="mailto:s.caldarella82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-s.caldarella82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salvadorcaldarella82/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Salvador%20Caldarella-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+  </a>
+  <a href="https://www.youtube.com/@salvatury" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-salvatury-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube badge"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🗂️ Portafolio (próximamente)
 
-- 🔧 [**Liquidación AUH – SP Oracle**](https://github.com/Salvatury/proyecto-liquidacion-auh): Procedimientos almacenados para la lógica de componentes de salud y educación.
-- 📊 [**Dashboard con Power BI**](https://github.com/Salvatury/proyecto-bi): Análisis de datos para reportes sociales.
-- 🌐 [**App Fullstack Spring + React**](https://github.com/Salvatury/fullstack-spring-react): Proyecto CRUD completo con base de datos.
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salvatury&show_icons=true&theme=github_dark&count_private=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Salvatury&theme=github-dark&hide_border=false" height="160"/>
-</p>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portafolio-Próximamente-informational?style=for-the-badge&logo=github" alt="portfolio badge"/>
+</a>
