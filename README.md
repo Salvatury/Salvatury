@@ -1,8 +1,8 @@
-<h1 align="center">👨‍💻 Hey, soy Salvador Caldarella</h1>
-<p align="center"> Full Stack Dev · DBA Dev · SysAdmin</p>
+<h1 align="center">💡Hey, soy Salvador Caldarella💡</h1>
+<p align="center"> 💻 Full Stack Dev · 🛢️ DBA Dev · 🖥️ SysAdmin</p>
 
 <p align="center">
-  <strong><em>✨ Cada línea de código que escribís hoy, te acerca un paso más a la versión más poderosa de vos mismo 💡</em></strong>
+  <strong><em>🚀 Cada línea de código que escribís hoy, te acerca un paso más a la versión más poderosa de vos mismo 🚀</em></strong>
 </p>
 
 ## 🧑‍💻 Sobre mí
