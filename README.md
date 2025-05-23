@@ -28,7 +28,7 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="Bootstrap" width="40" height="40" style="border-radius:6px; padding:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
 </a>
 </p>
 
