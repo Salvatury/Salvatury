@@ -23,6 +23,7 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
 </p>
 
+
 ### ⚙️ Frameworks y Librerías
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -32,6 +33,7 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
 </p>
 
 ### 🛢️ Bases de datos
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
