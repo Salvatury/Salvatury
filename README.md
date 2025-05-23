@@ -1,16 +1,3 @@
-<h1 align="center">👨‍💻 Hey, soy Salvador Caldarella</h1>
-<p align="center"> Full Stack Dev · DBA Dev · SysAdmin</p>
-
-<p align="center">
-  <strong><em>✨ Cada línea de código que escribís hoy, te acerca un paso más a la versión más poderosa de vos mismo 💡</em></strong>
-</p>
-
-## 🧑‍💻 Sobre mí
-
-Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Developer trabajando con Oracle, mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, Spring y .NET.
-
-Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una actitud proactiva hacia el aprendizaje constante. Disfruto compartir conocimientos y colaborar con otros, impulsando soluciones que generen impacto real tanto en proyectos como en personas.
-
 ## 🧰 Tecnologías y herramientas
 
 ### 🖥️ Lenguajes
@@ -51,38 +38,3 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/></a>
 </p>
-
-
-## 📌 Experiencia actual y formación
-
-- 🎯 **DBA Developer** en entorno DB2 en America Virtual (partner de Anses) (Actualidad)
-- 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET entre otros.
-- 🧰 Más de 10 años de experiencia en soporte técnico, administración de redes y servidores
-- 🏢 Experiencia en empresas como: HP, Arcos Dorados, Edenor y Rosen Argentina
-
-### 🎓 Formación destacada
-
-- 🧑‍💻 Full Stack Developer
-- 📘 Inglés
-
-## 📬 Contacto y redes
-
-<p align="left">
-  <a href="mailto:s.caldarella82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-s.caldarella82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/salvadorcaldarella82/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Salvador%20Caldarella-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
-  </a>
-  <a href="https://www.youtube.com/@salvatury" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-salvatury-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube badge"/>
-  </a>
-</p>
-
----
-
-### 🗂️ Portafolio (próximamente)
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portafolio-Próximamente-informational?style=for-the-badge&logo=github" alt="portfolio badge"/>
-</a>
