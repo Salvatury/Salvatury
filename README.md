@@ -2,15 +2,10 @@
 <p align="center">alias <strong>salvatury</strong> | Full Stack Developer | DBA Developer | SysAdmin</p>
 
 <p align="center">
-  <strong><em>✨ Cada línea de código que escribís hoy, te acerca un paso más a la versión más poderosa de vos mismo 💡</em></strong>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22CC88&center=true&width=600&lines=Cada+l%C3%ADnea+de+c%C3%B3digo+te+acerca+a+tu+mejor+versi%C3%B3n" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22CC88&center=true&width=600&lines=Cada+l%C3%ADnea+de+c%C3%B3digo+que+escrib%C3%ADs+hoy%2C+te+acerca+un+poco+m%C3%A1s+a+la+versi%C3%B3n+m%C3%A1s+poderosa+de+vos+mismo" alt="typing animation" />
   </a>
 </p>
-
 ## 🧑‍💻 Sobre mí
 
 Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Developer trabajando con Oracle, mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, Spring y .NET.
