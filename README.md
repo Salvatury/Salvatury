@@ -1,11 +1,12 @@
-<h1 align="center">👨‍💻 Salvador Caldarella</h1>
-<p align="center">alias <strong>salvatury</strong> | Full Stack Developer | DBA Developer | SysAdmin</p>
+<h1 align="center">👨‍💻 Hey, soy Salvador Caldarella</h1>
+<p align="center"> Full Stack Dev · DBA Dev · SysAdmin</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22CC88&center=true&width=600&lines=Cada+l%C3%ADnea+de+c%C3%B3digo+que+escrib%C3%ADs+hoy%2C+te+acerca+un+poco+m%C3%A1s+a+la+versi%C3%B3n+m%C3%A1s+poderosa+de+vos+mismo" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22CC88&center=true&width=600&lines=Cada+l%C3%ADnea+de+c%C3%B3digo+que+escrib%C3%ADs+hoy+te+acerca+un+poco+m%C3%A1s;A+la+versi%C3%B3n+m%C3%A1s+poderosa+de+vos+mismo+%F0%9F%9A%80" alt="typing animation" />
   </a>
 </p>
+
 ## 🧑‍💻 Sobre mí
 
 Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Developer trabajando con Oracle, mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, Spring y .NET.
@@ -70,7 +71,7 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
 - 🎯 **DBA Developer** en entorno DB2 en America Virtual (partner de Anses) (Actualidad)
 - 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET
 - 🧰 Más de 10 años de experiencia en soporte técnico, administración de redes y servidores
-- 🏢 Experiencia en empresas como: HP, Edenor y Rosen Argentina
+- 🏢 Experiencia en empresas como: HP, Arcos Dorados, Edenor y Rosen Argentina
 
 ### 🎓 Formación destacada
 
