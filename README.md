@@ -67,15 +67,14 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
 ## 📌 Experiencia actual y formación
 
 - 🎯 **DBA Developer** en entorno DB2 en America Virtual (partner de Anses) (Actualidad)
-- 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET
+- 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET entre otros.
 - 🧰 Más de 10 años de experiencia en soporte técnico, administración de redes y servidores
 - 🏢 Experiencia en empresas como: HP, Arcos Dorados, Edenor y Rosen Argentina
 
 ### 🎓 Formación destacada
 
-- 🧑‍💻 Full Stack Developer – Egg Cooperation (2023-2024)
-- 🧠 Bachiller con título completo – EEM N.º 4 (finalizado en 2002)
-- 📘 Inglés técnico – Nivel intermedio (en curso)
+- 🧑‍💻 Full Stack Developer
+- 📘 Inglés
 
 ## 📬 Contacto y redes
 
