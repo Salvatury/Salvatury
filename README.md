@@ -20,9 +20,6 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
-</a>
 </p>
 
 ### 🔧 Frameworks y Librerías
