@@ -29,8 +29,8 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/NuGet_Project_Logo.svg/512px-NuGet_Project_Logo.svg.png" alt="NuGet" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
-  <span style="font-size: 1.25rem">🔍 LINQ</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="NuGet" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/LINQ_Logo.png" alt="LINQ" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
 </p>
 
 ### 🗄️ Bases de datos
@@ -60,8 +60,8 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
-  <span style="font-size: 1.25rem">🐸 Toad</span>
-  <span style="font-size: 1.25rem">🟦 IBM Data Studio</span>
+  <img src="https://static.progress.com/images/product-logos/toad-for-oracle.svg" alt="Toad" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Data Studio" width="80" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
 </p>
 
 ## 📌 Experiencia actual y formación
