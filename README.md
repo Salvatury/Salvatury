@@ -29,8 +29,8 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="NuGet" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/LINQ_Logo.png" alt="LINQ" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
+  
+  
 </p>
 
 ### 🗄️ Bases de datos
