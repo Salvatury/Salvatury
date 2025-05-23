@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Developer trabajando con Oracle, mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, Spring y .NET.
+Apasionado por la tecnología desde joven, mi camino profesional comenzó en el soporte técnico y evolucionó hacia el desarrollo Full Stack y la administración de bases de datos. Actualmente me desempeño como DBA Dev  mientras continúo perfeccionando mis habilidades backend con tecnologías como Java, .NET entre otros lenguajes y frameworks.
 
 Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una actitud proactiva hacia el aprendizaje constante. Disfruto compartir conocimientos y colaborar con otros, impulsando soluciones que generen impacto real tanto en proyectos como en personas.
 
@@ -72,15 +72,11 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
 
 ## 📌 Experiencia actual y formación
 
-- 🎯 **DBA Developer** en entorno DB2 en America Virtual (partner de Anses) (Actualidad)
+- 🎯 **DBA Developer** en entorno DB2 en America Virtual (Anses partner) (Actualidad)
 - 🧱 **Full Stack Developer** con enfoque en backend Java + Spring + .NET entre otros.
 - 🧰 Más de 10 años de experiencia en soporte técnico, administración de redes y servidores
 - 🏢 Experiencia en empresas como: HP, Arcos Dorados, Edenor y Rosen Argentina
 
-### 🎓 Formación destacada
-
-- 🧑‍💻 Full Stack Developer
-- 📘 Inglés
 
 ## 📬 Contacto y redes
 
