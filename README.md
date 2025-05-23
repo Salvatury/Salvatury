@@ -13,29 +13,25 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
 
 ## 🧰 Tecnologías y herramientas
 
-### 🖥️ Lenguajes
+### 📘 Lenguajes
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
-</a>
 </p>
 
-### 🔧 Frameworks y Librerías
+### ⚙️ Frameworks y Librerías
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
-</a>
 </p>
 
-### 🗄️ Bases de datos
+### 🛢️ Bases de datos
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -51,24 +47,21 @@ Mi enfoque combina conocimiento técnico, experiencia en infraestructura y una a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
-</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
 </p>
 
-### 🧑‍💻 Entornos de desarrollo (IDE)
+### 💻 Entornos de desarrollo (IDE)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
-  <a href="https://www.quest.com/products/toad-for-oracle/" target="_blank">
   <img src="https://www.quest.com/images/patterns/zigzag/6-column/toad-white.png" alt="Toad" width="40" height="40" style="background-color:#1c1c1c; border-radius:6px; padding:4px"/>
-</a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Data Studio" width="80" height="40" style="background-color:white; border-radius:6px; padding:4px"/>
 </p>
+
 
 ## 📌 Experiencia actual y formación
 
